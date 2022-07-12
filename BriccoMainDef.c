@@ -1,12 +1,3 @@
-//Universidad Nacional de Rio Cuarto
-//Carrera: Analista en computación
-//Materia: Algoritmica y Programación
- 
-// Proyecto para alumnos libres
-
-// Alumno: Bricco Matias - DNI 44203047
-
-//Año 2021
 
 #include <stdio.h>
 #include <stdlib.h>
